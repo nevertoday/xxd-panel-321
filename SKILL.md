@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-321
-description: "Create XXD Panel 321 raster artwork: a faithful photograph paired with one vintage folk emblem in imperfect hand-inked line and solid black fills. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-321 or asks for this 墨块旧章 style."
+description: "XXD Panel 321｜Ink-Block Old Seal: keeps the photo and inks its subject as one small isolated vignette, like a plate from an old botanical manual, folk field guide, private seal or old diary — simplified, slightly naive shapes in imperfect hand-inked lines with small weight changes and pauses, solid ink fills, spot blacks and engraving-like marks that give a tiny image visual weight. Paper fibre, grain, slight ink loss and old print error; a warm restrained palette of warm white paper, dark brown ink, soft grey green, mist blue, light brown and muted warm tones; at most a few star bursts, plant motifs or small marks, wide whitespace and one short word or archive-style number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-321 or asks for a hand-inked vintage emblem, folk field-guide vignette or ink-block stamp from a photo."
 ---
 
 # XXD Panel 321

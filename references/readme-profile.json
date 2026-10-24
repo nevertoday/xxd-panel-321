@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 321｜Ink-Block Old Seal: keeps the photo and inks its subject as one small isolated vignette, like a plate from an old botanical manual, folk field guide, private seal or old diary — simplified, slightly naive shapes in imperfect hand-inked lines with small weight changes and pauses, solid ink fills, spot blacks and engraving-like marks that give a tiny image visual weight. Paper fibre, grain, slight ink loss and old print error; a warm restrained palette of warm white paper, dark brown ink, soft grey green, mist blue, light brown and muted warm tones; at most a few star bursts, plant motifs or small marks, wide whitespace and one short word or archive-style number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-321 or asks for a hand-inked vintage emblem, folk field-guide vignette or ink-block stamp from a photo.",
+  "short_description": "墨块旧章：把照片主体收成旧植物手册里一枚手绘墨线加实心墨块的孤立小图",
+  "zh-CN": {
+    "name": "墨块旧章",
+    "tagline": "保留原照片，把主体墨印成旧植物手册或民俗图鉴里的一枚小图。",
+    "look": "照片保持原样，设计部分把主体画成一个孤零零的小图案，像旧植物手册、民俗图鉴、私人印章或旧日记里的一格。造型简化、略稚拙，用不规则的手绘墨线，粗细有变化、带停顿，再配实心墨块和类似版画刻痕的笔触，让很小的图形也有分量。纸纤维、颗粒、轻微掉墨和旧印刷误差都在。颜色温暖克制：暖白纸、深褐墨、灰绿、雾蓝、浅棕和低饱和暖色。旁边最多几道星芒、植物纹或小记号，四周大片空白；文字只是一个短词或像档案编号的小字。",
+    "traits": ["手绘墨线", "实心墨块", "民俗图鉴", "孤立标记", "植物纹"],
+    "good": [
+      "植物、动物和自然物：一枝蕨、一只猫头鹰、一颗松果、一只蘑菇",
+      "带一点神秘或古老感的物件：烛台、旧钥匙、石像、老井",
+      "想做成藏书票、植物标本卡、手账贴纸或旧书风插图的照片"
+    ],
+    "poor": [
+      "以明亮色彩为看点的照片：彩色街景、糖果、花海",
+      "需要完整场景或多个人物互动的照片",
+      "想要现代品牌图标、光滑矢量、卡通或繁复装饰的效果"
+    ]
+  },
+  "en": {
+    "name": "Ink-Block Old Seal",
+    "tagline": "Keeps your photo and inks the subject as one small plate from an old botanical manual or folk field guide.",
+    "look": "The photo stays as it is. The design draws the subject as a single isolated vignette, like an entry in an old botanical manual, a folk field guide, a private seal or an old diary. Shapes are simplified and a little naive, drawn in irregular hand-inked lines that change weight and pause, with solid ink fills and engraving-like marks that give even a tiny image some weight. Paper fibre, grain, slight ink loss and old print errors remain. Colours are warm and restrained: warm white paper, dark brown ink, grey green, mist blue, light brown and muted warm tones. At most a few star bursts, plant motifs or small marks sit nearby in wide whitespace; text is one short word or a small archive-style number.",
+    "traits": ["Hand-inked line", "Solid ink blocks", "Folk field guide", "Isolated mark", "Plant motif"],
+    "good": [
+      "Plants, animals and natural things: a fern frond, an owl, a pine cone, a mushroom",
+      "Objects with a mysterious or ancient feel: a candlestick, an old key, a stone statue, an old well",
+      "Photos you want as a bookplate, a botanical specimen card, a journal sticker or an old-book style illustration"
+    ],
+    "poor": [
+      "Photos whose appeal is bright colour: colourful streets, sweets, fields of flowers",
+      "Photos that need a full scene or several people interacting",
+      "Wanting a modern brand icon, glossy vector, cartoon or heavy decoration"
+    ]
+  },
+  "ja": {
+    "name": "墨ベタの古印",
+    "tagline": "写真はそのままに、主役を古い植物図鑑や民俗図譜の小さな一図のように墨で刷り出します。",
+    "look": "写真はそのまま残し、デザイン側は主役をぽつんと置かれた小さな図案として描きます。古い植物図鑑、民俗図譜、私印、古い日記の一コマのようです。形は簡略で少し素朴、不規則な手描きの墨線は太さが変わり、ためらいの間があり、墨ベタや版画の彫り跡のようなタッチを加えて、小さな図にも重みを持たせます。紙の繊維、粒子、わずかな墨のかすれ、古い印刷のずれも残ります。色は温かく控えめで、温かな白い紙、こげ茶の墨、灰緑、霧のような青、薄茶、彩度を抑えた暖色です。そばには星の光芒、植物文様、小さな印をいくつかまで、周りは大きな余白で、文字は短い一語か資料番号のような小さな文字だけです。",
+    "traits": ["手描きの墨線", "墨ベタ", "民俗図譜", "孤立した印", "植物文様"],
+    "good": [
+      "植物、動物、自然物：シダの葉、フクロウ、松ぼっくり、きのこ",
+      "どこか神秘的で古めかしい物：燭台、古い鍵、石像、古井戸",
+      "蔵書票、植物標本カード、手帳のステッカー、古書風の挿絵にしたい写真"
+    ],
+    "poor": [
+      "鮮やかな色が見どころの写真：カラフルな街並み、お菓子、一面の花畑",
+      "場面全体や複数の人物のやり取りが必要な写真",
+      "現代的なブランドアイコン、なめらかなベクター、キャラクター、過剰な装飾を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "먹 블록 옛 도장",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 옛 식물 도감이나 민속 도감 속 작은 그림 한 장처럼 먹으로 찍어 냅니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 주인공을 홀로 놓인 작은 도안으로 그립니다. 옛 식물 도감, 민속 도감, 개인 도장, 오래된 일기의 한 칸 같습니다. 형태는 단순하고 조금 소박하며, 불규칙한 손그림 먹선은 굵기가 달라지고 멈칫하는 순간이 있고, 먹 덩어리와 판화 칼자국 같은 터치를 더해 작은 그림에도 무게를 줍니다. 종이 섬유, 입자, 살짝 빠진 먹, 오래된 인쇄 오차가 남습니다. 색은 따뜻하고 절제되어 따뜻한 흰 종이, 짙은 갈색 먹, 회녹색, 안개 낀 파랑, 연갈색, 채도 낮은 난색입니다. 곁에는 별빛 무늬, 식물 문양, 작은 표식을 몇 개까지만 두고, 둘레는 넓게 비우며, 글자는 짧은 한 단어나 문서 번호 같은 작은 글씨뿐입니다.",
+    "traits": ["손그림 먹선", "먹 덩어리", "민속 도감", "고립된 표식", "식물 문양"],
+    "good": [
+      "식물, 동물, 자연물: 고사리 잎, 부엉이, 솔방울, 버섯",
+      "신비롭거나 오래된 느낌의 물건: 촛대, 옛 열쇠, 석상, 오래된 우물",
+      "장서표, 식물 표본 카드, 다이어리 스티커, 옛 책풍 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "밝은 색이 핵심인 사진: 알록달록한 거리, 사탕, 꽃밭",
+      "장면 전체나 여러 사람의 상호작용이 필요한 사진",
+      "현대 브랜드 아이콘, 매끈한 벡터, 캐릭터, 과한 장식을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ختم قديم بكتل الحبر",
+    "tagline": "يحتفظ بصورتك ويطبع عنصرها بالحبر كلوحة صغيرة من دليل نباتي قديم أو موسوعة شعبية.",
+    "look": "تبقى الصورة كما هي، ويرسم التصميم العنصر نقشاً صغيراً منفرداً، كمدخل في دليل نباتي قديم أو موسوعة شعبية مصوّرة أو ختم شخصي أو دفتر يوميات قديم. الأشكال مبسّطة وفيها سذاجة خفيفة، مرسومة بخطوط حبر يدوية غير منتظمة تتغير سماكتها وتتوقف، مع كتل حبر مصمتة وضربات تشبه الحفر الطباعي تمنح حتى الصورة الصغيرة ثقلاً. تبقى ألياف الورق والحبيبات وتقشّر الحبر الطفيف وأخطاء الطباعة القديمة. الألوان دافئة مقتصدة: ورق أبيض دافئ وحبر بني داكن وأخضر رمادي وأزرق ضبابي وبني فاتح ودرجات دافئة خافتة. قد يرافقه في أقصى حد بضعة إشعاعات نجمية أو زخارف نباتية أو علامات صغيرة في فراغ واسع، والنص كلمة قصيرة واحدة أو رقم صغير كأرقام الأرشيف.",
+    "traits": ["خط حبر يدوي", "كتل حبر مصمتة", "موسوعة شعبية", "علامة منفردة", "زخرفة نباتية"],
+    "good": [
+      "نباتات وحيوانات وأشياء من الطبيعة: سعفة سرخس، بومة، كوز صنوبر، فطر",
+      "أشياء فيها غموض أو قِدم: شمعدان، مفتاح قديم، تمثال حجري، بئر قديمة",
+      "صور تريدها ختماً لكتاب أو بطاقة عيّنة نباتية أو ملصقاً لدفتر يوميات أو رسماً بطابع الكتب القديمة"
+    ],
+    "poor": [
+      "صور جاذبيتها في الألوان الزاهية: شوارع ملوّنة، حلوى، حقول زهور",
+      "صور تحتاج إلى مشهد كامل أو تفاعل بين عدة أشخاص",
+      "الرغبة في أيقونة علامة حديثة أو رسم متجهي لامع أو كرتون أو زخرفة كثيفة"
+    ]
+  }
+}
